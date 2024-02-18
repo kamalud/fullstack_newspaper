@@ -1,0 +1,78 @@
+.main_app {
+    overflow: hidden;
+}
+header.top_header {
+    background: #48474d;
+}
+.login_menu {
+    background: rgb(61 30 154);
+    margin-top: 16px;
+    height: 40px;
+    overflow: hidden;
+}
+.login_menu ul li {
+    list-style-type: none;
+    display: inline-block;
+    margin-top: 6px;
+}
+
+.login_menu ul li a {
+    color: #fff;
+    text-align: center;
+}
+.logo {
+    margin-left: 72px;
+}
+.logo img {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+    margin-top: 12px;
+    height: 68px;
+    width: 139px;
+}
+
+.top_image img {
+    width: 555px;
+    height: 70px;
+    border-radius: 2px solid #888;
+}
+
+
+div.header {
+    background: rgb(35, 3, 71) !important;
+}
+.menu.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+button.btn.btn-outline-success.button_c {
+    background: #fff;
+}
+button.btn.btn-outline-success.button_c:hover{
+	background: red;
+	color: #fff;
+}
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .show>.nav-link{
+	font-size: 18px;
+	color: #fff!important;
+}
+.menu a.nav-link {
+    color: #fff;
+    font-size: 16px;
+}
+.search_box {
+    margin-left: 290px;
+}
+.navbar-toggler-icon {
+    display: inline-block;
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: middle;
+    content: "";
+    background: black;
+    color: #fff !important;
+}
